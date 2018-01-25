@@ -1,0 +1,60 @@
+body {
+  background-color: #444444;
+  color: white;
+  /* width: 600px; */
+  border: 2px solid #777777;
+  padding: 25px;
+  margin: 25px;
+  line-height: 1.5;
+  max-width: 90%;
+}
+a {
+  color: #63C797;
+}
+img {
+  border: 2px solid #777777;
+  margin: 0px 0px 5px 10px;
+  padding: 5px;
+  display: inline;
+  float: right;
+  width: 40%
+}
+.aboutMeContent {
+  font-size: 18px;
+  color: #f1f1f1;
+  padding: 10ox;
+}
+.resumeContent {
+  font-size: 18px;
+  color: #f1f1f1;
+}
+.first {
+  color: #f1f1f1;
+}
+.second {
+  color: #bbbbbb;
+}
+h2 {
+  font-size: 25px;
+  color: #ffffff;
+}
+h3 {
+  font-size: 18px;
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
+h4 {
+  font-size: 18px;
+  color: #bbbbbb;
+
+}
+hr {
+  display: block;
+      height: 1px;
+      border: 0;
+      border-top: 1px solid #777777;
+      margin: 1em 0;
+      padding: 0;
+}
