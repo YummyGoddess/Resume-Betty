@@ -2,7 +2,7 @@ body {
   background-color: #444444;
   color: white;
   /* width: 600px; */
-  border: 2px solid #777777;
+  border: 5px solid #777777;
   padding: 25px;
   margin: 25px;
   line-height: 1.5;
@@ -43,7 +43,9 @@ h3 {
   text-align: center;
 }
 h1 {
+  font-size: 45px;
   text-align: center;
+  font-style: italic;
 }
 h4 {
   font-size: 18px;
